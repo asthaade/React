@@ -1,0 +1,25 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "my react project",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asthaade/React.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Astha Ade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asthaade/React/issues"
+  },
+  "homepage": "https://github.com/asthaade/React#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
